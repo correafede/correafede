@@ -1,19 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hola%2C+soy+Fede;Desarollador+de+Software;Bienvendio+a+mi+perfil)](https://git.io/typing-svg)
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=correafede&label=Profile%20views&color=0e75b6&style=flat" alt="correafede" /> </p>
+<a href="https://fedecorrea.com"><img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0e1412,100:1a7f5e&text=Federico%20Correa&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agentes%20de%20IA%20%C2%B7%20RAG%20%C2%B7%20n8n&descAlignY=58&descSize=17" width="100%" alt="Federico Correa · AI Engineer" /></a>
 
-- 📫 How to reach me **correafedde@gmail.com**
+<a href="https://fedecorrea.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=34B38A&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hola%2C+soy+Fede;Construyo+agentes+de+IA+para+negocios+reales;RAG+%C2%B7+n8n+%C2%B7+WhatsApp+%C2%B7+full-stack;Demos+en+vivo+en+fedecorrea.com" alt="Construyo agentes de IA" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fedecorrea5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fedecorrea5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/correafederico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="correafederico" height="30" width="40" /></a>
-<a href="https://fb.com/tostadosimple" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tostadosimple" height="30" width="40" /></a>
-<a href="https://instagram.com/fedecorrea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fedecorrea" height="30" width="40" /></a>
+<p>
+  <a href="https://fedecorrea.com"><img src="https://img.shields.io/badge/fedecorrea.com-1a7f5e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web" /></a>
+  <a href="https://linkedin.com/in/correafederico"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:correafedde@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/fedecorrea5"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
+### 🧑‍💻 Sobre mí
 
+Construyo **agentes de IA y el software que los rodea** para resolver problemas concretos de negocio.
+
+- 💼 Hoy: **AI Automation Specialist en CeTAP S.A.** Desarrollé **Ceti**, el asistente comercial de CetApp Go para web y WhatsApp: califica prospectos, recomienda planes y agenda demos, conectado a HubSpot. Cada respuesta pasa por un juez de IA antes de llegar al cliente.
+- 🤖 Asistentes y agentes de IA con supervisión y derivación a personas
+- ⚡ Automatizaciones con n8n entre HubSpot, Airtable, Gmail, Google Sheets y WhatsApp
+- 📚 Sistemas RAG sobre documentos, con citas a las fuentes
+- 📱 Apps web, Android y de escritorio con Next.js, FastAPI, Kotlin y Compose
+- 🏭 Me interesa especialmente aplicar IA a la seguridad de procesos industriales
+- 📍 Mendoza, Argentina
+
+### 🚀 Proyectos
+
+| Proyecto | Qué es | Stack | Ver |
+|---|---|---|---|
+| **Ceti** | Asistente comercial de IA para web y WhatsApp, con juez de IA que revisa cada respuesta | n8n · HubSpot · LLMs | [Demo](https://fedecorrea.com/ceti/) |
+| **Oficina de agentes** | Los agentes trabajando en vivo | n8n · IA | [Ver en vivo](https://fedecorrea.com/agents/) |
+| **Asistente multiagente supervisado** | Asistente por WhatsApp con ROI estimado de 828% (AI Automation Avanzado, Coderhouse 2026) | n8n · WhatsApp | [Proyecto](https://fedecorrea.com/tp_final/) |
+| **Biblioteca de Seguridad de Procesos** | Chatbot RAG y API sobre 33 documentos técnicos de seguridad de procesos | FastAPI · PostgreSQL + pgvector · Claude API · Docker | [Repo](https://github.com/correafede/Proyecto-I) |
+| **Ecogas** | App Android para recorridos y app de escritorio para administración | Kotlin · Compose · Supabase | [Mobile](https://github.com/correafede/ecogas-mobile) · [Admin](https://github.com/correafede/ecogas-admin) |
+| **CentralVet** | App para una clínica veterinaria con un asistente de IA que lee la ficha de cada mascota | Next.js · SQLite | — |
+
+👉 Más proyectos y demos en **[fedecorrea.com](https://fedecorrea.com)**
+
+### 🧰 Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,react,kotlin&perline=12" alt="Lenguajes y frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,docker,aws,git&perline=12" alt="Datos e infraestructura" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/RAG%20%C2%B7%20pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="RAG con pgvector" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot" />
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" alt="Airtable" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+</p>
+
+### 📊 Actividad
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=correafede&theme=dark&background=0e1412&ring=34b38a&fire=34b38a&currStreakLabel=34b38a&hide_border=true" alt="Racha en GitHub" />
+</p>
+
+<a href="https://fedecorrea.com"><img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0e1412,100:1a7f5e&section=footer" width="100%" alt="fedecorrea.com" /></a>
